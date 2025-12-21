@@ -18,8 +18,8 @@
 ##############################
 text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://onekamm.github.io # the base hostname & protocol for your site
-baseurl : /home # the subpath of your site, e.g. /blog
+url     :  # the base hostname & protocol for your site
+baseurl : # the subpath of your site, e.g. /blog
 title   : Onekamm's Place
 description: > # this means to ignore newlines until "Language & timezone"
   This will be a collection of my research and progress.
