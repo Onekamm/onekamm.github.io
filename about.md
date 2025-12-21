@@ -26,8 +26,20 @@ titles:
 key: page-about
 ---
 
-## Whoami
-I'm a cybersecurity enthusiast who is taking the steps to slowly get into Malware Research and reverse engineering. Living in London.
+Hey hey, my name is Kam!
+
+I'm a malware researcher and reverse engineering enthusiast, hoping to make this blog a display of my consistency and developing passion. 
+
+I am deeply interested in vulnerability research and aim to gain and apply advanced security testing skills and concepts; while sharing, collaborating, and teaching others as I do.
+
+I'm on a never-ending learning journey and I hope you'll join me.
+
+
+Bounty Bounty, CTFs, Web-App Pentesting, Python Scripting for Cybersecurity.
+
+
+But past all the deep talk I love technology and gadgets. I've got way too many gaming mice and niche collectibles.
+
 
 ## Contact
-I'd love to connect and have a talk, feel free to reach out to me preferably through discord.
+I'd love to connect and get input and have discussions, feel free to reach out to me preferably through discord. Links below to all relevant :)

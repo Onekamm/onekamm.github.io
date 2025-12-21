@@ -20,9 +20,9 @@ text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "
 highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     :  # the base hostname & protocol for your site
 baseurl : # the subpath of your site, e.g. /blog
-title   : Onekamm's Place
+title   : Onekam's Convergence
 description: > # this means to ignore newlines until "Language & timezone"
-  This will be a collection of my research and progress.
+  This will be a collection of my malware and reverse engineering research and progress, I hope it can be a nice showing of my skills and progress.
 
 
 ## => Language and Timezone
@@ -207,12 +207,12 @@ defaults:
       type: posts
     values:
       layout: article
-      sharing: true
+      sharing: false
       license: true
       aside:
         toc: true
       show_edit_on_github: true
-      show_subscribe: true
+      show_subscribe: false
       pageview: true
 
 
