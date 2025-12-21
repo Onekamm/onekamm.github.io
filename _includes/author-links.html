@@ -35,6 +35,14 @@
         </a>
       </li>
     {%- endif -%}
+    
+    {%- if _author.discord -%}
+      <li title="{{ _locale_string_follow | replace: '[NAME]', 'Discord' }}">
+        <a class="button button--circle discord-button" itemprop="sameAs" href="https://discord.com/users/{{ _author.discord }}" target="_blank">
+          <div class="icon">{%- include svg/icon/social/discord.svg -%}</div>
+        </a>
+      </li>
+    {%- endif -%}
 
     {%- if _author.twitter -%}
       <li title="{{ _locale_string_follow | replace: '[NAME]', 'Twitter' }}">
