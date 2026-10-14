@@ -10,6 +10,6 @@ article_header:
 
 This is the first post in my blog so welcome!
 
-This post is mainly to test how the styling works as well as just making sure that I actually make a start. 
+This post is mainly to test how the styling works as well as making sure that I make a start. 
 
 Thank you for reading!
