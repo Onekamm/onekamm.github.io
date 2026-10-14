@@ -1,11 +1,11 @@
 ---
 layout: article
 title: The Beginning
-tags: cyber
+tags: cyber 
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg      
+    src: /images/hacker.png
 ---
 
 This is the first post in my blog so welcome!

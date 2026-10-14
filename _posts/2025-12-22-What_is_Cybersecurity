@@ -1,0 +1,10 @@
+---
+layout: article
+title:  The stack 
+tags: basics
+article_header:
+  type: cover
+  image:
+    src: /images/hacker.png
+    
+---

@@ -5,7 +5,7 @@ tags: basics
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg      
+    src: /images/hacker.png
 ---
 
 I'm taking this Journey from a very step by step from the ground up way. So for the past day or so I've been attempting to reinforce certain knowledge that's been lost to me due to lack of practice.

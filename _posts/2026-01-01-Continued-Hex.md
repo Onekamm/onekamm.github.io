@@ -5,7 +5,7 @@ tags: basics
 article_header:
   type: cover
   image:
-    src: /screenshot.jpg      
+    src: /images/hacker.png
 ---
 
 ### Hex addition and subtraction.
